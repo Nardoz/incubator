@@ -17,3 +17,5 @@ En principio, no. El valor principal de esta incubadora es la de que puedas apro
 ## Consejos para publicar ideas
 
 Asegurate de tener un primer análisis, aunque sea a alto nivel, con el que puedas iniciar la discusión. Como promotor de tu idea, vos tenés que ser quien ponga las primeras cartas sobre la mesa, que establezca un contexto, un ámbito de discusión.
+
+Ante la duda, chequeate la idea de ejemplo "[GitHub Soccer Match Simulator](https://github.com/Nardoz/incubator/issues/1)".
